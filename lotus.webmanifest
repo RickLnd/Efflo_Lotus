@@ -1,0 +1,14 @@
+{
+  "name": "Efflo Lotus",
+  "short_name": "Efflo Lotus",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f5",
+  "theme_color": "#eef3f5",
+  "icons": [
+    { "src": "lotus-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "lotus-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "lotus-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
